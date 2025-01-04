@@ -1,2 +1,3 @@
-# nvim
-neovim configuration
+### Introduction
+Current repository is used to configured the neovim configuration
+
