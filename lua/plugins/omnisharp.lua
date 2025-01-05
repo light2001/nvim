@@ -1,0 +1,5 @@
+return {
+    {
+        'OmniSharp/omnisharp-vim',
+    }
+}
