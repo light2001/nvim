@@ -9,6 +9,6 @@ require("keymaps.hop")
 require("settings.settings")
 require("settings.omnisharp")
 require("settings.colorscheme")
-require("settings.undotree
-require("settings.lua")
+require("settings.undotree")
+require("settings.coc")
 
