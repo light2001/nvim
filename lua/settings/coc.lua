@@ -1,4 +1,24 @@
 -- https://raw.githubusercontent.com/neoclide/coc.nvim/master/doc/coc-example-config.lua
+vim.g.coc_global_extensions =  {
+    'coc-svg', 
+    'coc-go',
+    "coc-json",
+    "coc-marketplace",
+    "coc-html",
+    "coc-mantic",
+    "coc-java",
+    "coc-jedi",
+    "coc-powershell",
+    "coc-omnisharp",
+    "coc-yaml",
+    "coc-docker",
+    "coc-sql",
+    "coc-css",
+    "coc-markdownlint",
+    "coc-db",
+    "coc-git",
+    "coc-svg"
+}
 
 -- Some servers have issues with backup files, see #649
 vim.opt.backup = false
