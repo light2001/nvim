@@ -17,7 +17,8 @@ vim.g.coc_global_extensions =  {
     "coc-markdownlint",
     "coc-db",
     "coc-git",
-    "coc-svg"
+    "coc-svg",
+    "coc-restclient"
 }
 
 -- Some servers have issues with backup files, see #649
