@@ -22,4 +22,6 @@ git clone https://github.com/light2001/nvim
 # run nvim
 nvim
 ```
+![image](https://github.com/user-attachments/assets/b350c51c-706a-4f6d-b0f6-e9a7bd14cc6b)
+
 
